@@ -6,5 +6,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=praisebak)](https://solved.ac/praisebak/)
 
 # 수상경력
-- SW 창업경진대회 우수상
+- CWNU 2024 SW 창업경진대회 우수상
 
