@@ -6,7 +6,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=praisebak)](https://solved.ac/praisebak/)
 
 # Experiences
-- 2021.03 ~ 2022.10 창원대학교 자연어처리 연구실 AIR  
+- 2021.01 ~ 2023.01 창원대학교 자연어처리 연구실 AIR  
 - 2025.02 ~ 현재 우아한테크코스 백엔드 트랙
 
 # Projects
